@@ -6,9 +6,9 @@ using namespace std;
 struct timeval time_start;
 struct timeval time_end;
 
-string graph_edges_file = "../data/test_subgraph_match/youtube_undirected_Gorder.txt";
-string graph_labels_file = "../data/test_subgraph_match/youtube_label_Gorder.txt";
-string sm_queries_file = "../data/test_subgraph_match/youtube_undirected_Gorder.sm.queries";
+string graph_edges_file = "../data/test_subgraph_match/youtube_undirected_GRO.txt";
+string graph_labels_file = "../data/test_subgraph_match/youtube_label_GRO.txt";
+string sm_queries_file = "../data/test_subgraph_match/youtube_undirected_GRO.sm.queries";
 
 OrgSubGraphMatch sm;
 

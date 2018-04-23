@@ -9,7 +9,7 @@ using namespace std;
 struct timeval time_start;
 struct timeval time_end;
 
-string graph_file_path = "../data/youtube_cont_Gorder.txt";
+string graph_file_path = "../data/youtube_cont_GRO.txt";
 
 BPTriangleCount tc;
 // RoaringTriangleCount tc;
