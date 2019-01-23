@@ -59,6 +59,6 @@ Real graph datasets can be obtained from SNAP ("http://snap.stanford.edu/data/")
 
 Our code are tested on Linux system using GCC 4.8.5 and GCC 5.3.0.
 
-If you use our code for rearch work, please kindly cite the following paper:
+If you use our code for research work, please kindly cite the following paper:
 
 Shuo Han, Lei Zou, and Jeffrey Xu Yu. Speeding Up Set Intersections in Graph Algorithms using SIMD Instructions. Proceedings of SIGMOD, 2018.
